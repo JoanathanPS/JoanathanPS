@@ -60,6 +60,7 @@ Combines citizen-reported geotagged images with Sentinel-2 satellite NDVI analys
 ### [Farmzy](https://github.com/JoanathanPS/Farmzy) · Smart Agriculture Platform
 Hackathon winner. I led software as Software Head and built the frontend, backend and ThingSpeak API integration for real-time soil monitoring and data visualization.
 `ThingSpeak` `IoT` `Node.js` `Data Viz`
+
 ---
 
 ## Tech Stack
