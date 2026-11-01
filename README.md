@@ -8,6 +8,7 @@
   <a href="https://joanathan.in"><img src="https://img.shields.io/badge/Portfolio-joanathan.in-0F172A?style=for-the-badge&logo=googlechrome&logoColor=14B8A6" /></a>
   <a href="https://linkedin.com/in/joanathanps"><img src="https://img.shields.io/badge/LinkedIn-joanathanps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hello@joanathan.in"><img src="https://img.shields.io/badge/Email-hello@joanathan.in-F97316?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/JoanathanPS/JoanathanPS/blob/main/JoanathanResume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-14B8A6?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </p>
 </div>
 
@@ -40,26 +41,25 @@ I build software that solves real problems, from AI study tools and clinical dec
 Turns PDFs, DOCX files, images and text into contextual learning material. Document chunking and embeddings power AI chat, summaries, flashcards and quizzes, with course management and content sharing.
 `Gemini` `Voyage Embeddings` `Supabase` `RAG`
 
-### [ClinDex](https://github.com/JoanathanPS/ClinDex) · AI-Assisted Prescription Review
-Combines medication data with patient-specific context to flag missing information and potential prescription risks. RxNorm-based lookup and prefilling, plus an AI questionnaire that asks for missing context and surfaces drug interactions.
-`RxNorm` `LLMs` `Healthcare AI`
-
-### [Farmzy](https://github.com/JoanathanPS/Farmzy) · Smart Agriculture Platform
-Hackathon winner. I led software as Software Head and built the frontend, backend and ThingSpeak API integration for real-time soil monitoring and data visualization.
-`ThingSpeak` `IoT` `Node.js` `Data Viz`
-
-### [AlienBuster](https://github.com/JoanathanPS/AlienBuster) · Invasive Species Early Warning
-Combines citizen-reported geotagged images with Sentinel-2 satellite NDVI analysis to detect vegetation anomalies and support early ecological threat detection. Built in 24 hours.
-`Sentinel-2` `NDVI` `Geospatial` `Computer Vision`
-
 ### [Battle Royale](https://github.com/JoanathanPS/BattleRoyale) · Java Game
 Extended an existing Java battle royale with advanced bot AI, loot, safe-zone mechanics, a minimap and settings, refactoring and rebalancing the original systems.
 `Java` `Game AI`
+
+### [ClinDex](https://github.com/JoanathanPS/ClinDex) · AI-Assisted Prescription Review
+Combines medication data with patient-specific context to flag missing information and potential prescription risks. RxNorm-based lookup and prefilling, plus an AI questionnaire that asks for missing context and surfaces drug interactions.
+`RxNorm` `LLMs` `Healthcare AI`
 
 ### [FundMeUp](https://github.com/JoanathanPS/FundMeUp) · Crowdfunding Platform
 Full-stack app for creating, managing, browsing and supporting campaigns, with authentication, campaign workflows and backend/database integration for contributions.
 `Full-Stack` `Auth` `Database`
 
+### [AlienBuster](https://github.com/JoanathanPS/AlienBuster) · Invasive Species Early Warning
+Combines citizen-reported geotagged images with Sentinel-2 satellite NDVI analysis to detect vegetation anomalies and support early ecological threat detection. Built in 24 hours.
+`Sentinel-2` `NDVI` `Geospatial` `Computer Vision`
+
+### [Farmzy](https://github.com/JoanathanPS/Farmzy) · Smart Agriculture Platform
+Hackathon winner. I led software as Software Head and built the frontend, backend and ThingSpeak API integration for real-time soil monitoring and data visualization.
+`ThingSpeak` `IoT` `Node.js` `Data Viz`
 ---
 
 ## Tech Stack
