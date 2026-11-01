@@ -8,7 +8,7 @@
   <a href="https://joanathan.in"><img src="https://img.shields.io/badge/Portfolio-joanathan.in-0F172A?style=for-the-badge&logo=googlechrome&logoColor=14B8A6" /></a>
   <a href="https://linkedin.com/in/joanathanps"><img src="https://img.shields.io/badge/LinkedIn-joanathanps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hello@joanathan.in"><img src="https://img.shields.io/badge/Email-hello@joanathan.in-F97316?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/JoanathanPS/JoanathanPS/blob/main/JoanathanResume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-14B8A6?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+  <a href="https://joanathanps.github.io/JoanathanPS/JoanathanResume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-14B8A6?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </p>
 </div>
 
