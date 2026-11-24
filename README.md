@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://joanathan.in"><img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=30&duration=3200&pause=900&color=D95927&center=true&vCenter=true&width=640&height=56&lines=Hi%2C+I'm+Joanathan+%F0%9F%91%8B;Building+one+side+quest+at+a+time;AI+%E2%80%A2+RAG+%E2%80%A2+Full-Stack+%E2%80%A2+Games;Currently+interning+at+Zoho" alt="Hi, I'm Joanathan. Building one side quest at a time." /></a>
+<a href="https://joanathan.in"><img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=30&duration=3200&pause=900&color=D95927&center=true&vCenter=true&width=640&height=56&lines=Hi%2C+I'm+Joanathan;Building+one+side+quest+at+a+time;AI+%E2%80%A2+RAG+%E2%80%A2+Full-Stack+%E2%80%A2+Games;Currently+interning+at+Zoho" alt="Hi, I'm Joanathan. Building one side quest at a time." /></a>
 
 <p>B.Tech CSE (Artificial Intelligence) at SIMATS, Chennai · 2024 – 2028</p>
 
@@ -8,17 +8,15 @@
 
 </div>
 
-## 🧭 About me
+## About me
 
-I build software that solves real problems, from AI study tools and clinical decision support to games and hardware-backed dashboards. I learn fastest by shipping, and I like projects where AI, data and a usable product meet.
+I'm interning at **Zoho** on Site24x7, and studying CS (AI) at SIMATS the rest of the time.
 
-- 🏢 Software Development Intern at **Zoho**, building for **Site24x7**
-- 🧠 Building RAG-based AI applications with embeddings and LLMs
-- 🚀 Shipping full-stack products end to end, from database to deployment
-- 🎮 Making Java games and polished desktop software
-- 📚 Learning modern C++ and production-grade SaaS architecture
+Most of what's here started as a side project or a hackathon weekend: study tools that read your notes, a prescription checker, an invasive species tracker built on satellite data, a couple of games. I like the part where an AI feature has to work inside a real product, with a database behind it and a user in front of it.
 
-## 🛠️ Featured projects
+Right now I'm learning modern C++ and how SaaS backends hold up at scale.
+
+## Projects
 
 <table>
   <tr>
@@ -64,7 +62,7 @@ I build software that solves real problems, from AI study tools and clinical dec
   <tr>
     <td width="50%" valign="top">
       <a href="https://farmzy.joanathan.in/"><img src="assets/farmzy.png" alt="Farmzy" /></a>
-      <h3><a href="https://github.com/JoanathanPS/Farmzy">Farmzy</a> 🏆</h3>
+      <h3><a href="https://github.com/JoanathanPS/Farmzy">Farmzy</a></h3>
       Smart agriculture with real-time soil monitoring and a marketplace. Hackathon winner. I led software as Software Head.
       <br /><br />
       <code>IoT</code> <code>ThingSpeak</code> <code>Node.js</code>
@@ -83,15 +81,15 @@ I build software that solves real problems, from AI study tools and clinical dec
   </tr>
 </table>
 
-## 🏆 Achievements
+## Hackathons
 
 | Year | Result | Project |
 |---|---|---|
-| 2025 | 🥇 **Winner**, Next Gen Product Buildathon (SQ1 Security & AI Geeks) | Farmzy |
-| 2025 | 🏅 **Top 5**, Hackforge Hackathon (DDGDVC) | Farmzy |
-| 2026 | ⚡ Built in 24 hours at NXTGEN'26, International Software Innovation Hackathon (SRMIST, Logitech) | AlienBuster |
+| 2025 | **Winner**, Next Gen Product Buildathon (SQ1 Security & AI Geeks) | Farmzy |
+| 2025 | **Top 5**, Hackforge Hackathon (DDGDVC) | Farmzy |
+| 2026 | Built in 24 hours at NXTGEN'26, International Software Innovation Hackathon (SRMIST, Logitech) | AlienBuster |
 
-## 🧰 Tech stack
+## Stack
 
 <div align="center">
 
@@ -104,7 +102,7 @@ I build software that solves real problems, from AI study tools and clinical dec
 
 </div>
 
-## 📈 GitHub activity
+## Activity
 
 <div align="center">
 
@@ -120,6 +118,6 @@ I build software that solves real problems, from AI study tools and clinical dec
 
 </div>
 
-## 🤝 Let's connect
+## Say hi
 
 Open to collaborations, internships and interesting side quests. And if you need a website, I'd love to build it.
