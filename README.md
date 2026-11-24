@@ -1,15 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:aa131f,50:d95927,100:5850be&height=230&section=header&text=Joanathan%20Packia%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20%E2%80%A2%20AI%20%E2%80%A2%20Games&descSize=18&descAlignY=58&animation=fadeIn" alt="Joanathan Packia Singh" />
-
 <div align="center">
 
 <a href="https://joanathan.in"><img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=30&duration=3200&pause=900&color=D95927&center=true&vCenter=true&width=640&height=56&lines=Hi%2C+I'm+Joanathan+%F0%9F%91%8B;Building+one+side+quest+at+a+time;AI+%E2%80%A2+RAG+%E2%80%A2+Full-Stack+%E2%80%A2+Games;Currently+interning+at+Zoho" alt="Hi, I'm Joanathan. Building one side quest at a time." /></a>
 
 <p>B.Tech CSE (Artificial Intelligence) at SIMATS, Chennai · 2024 – 2028</p>
 
-<a href="https://joanathan.in"><img src="https://img.shields.io/badge/joanathan.in-0d1117?style=for-the-badge&logo=googlechrome&logoColor=D95927" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/joanathanps/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=D95927" alt="LinkedIn" /></a>
-<a href="mailto:hello@joanathan.in"><img src="https://img.shields.io/badge/Say_hi-0d1117?style=for-the-badge&logo=gmail&logoColor=D95927" alt="Email" /></a>
-<a href="https://joanathanps.github.io/JoanathanPS/JoanathanResume.pdf"><img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readdotcv&logoColor=D95927" alt="Resume" /></a>
+<a href="https://joanathan.in">Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/joanathanps/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:hello@joanathan.in">Email</a> &nbsp;·&nbsp; <a href="https://joanathanps.github.io/JoanathanPS/JoanathanResume.pdf">Resume</a>
 
 </div>
 
@@ -128,5 +123,3 @@ I build software that solves real problems, from AI study tools and clinical dec
 ## 🤝 Let's connect
 
 Open to collaborations, internships and interesting side quests. And if you need a website, I'd love to build it.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5850be,50:d95927,100:aa131f&height=120&section=footer" alt="" />
